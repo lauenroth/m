@@ -1,0 +1,27 @@
+{
+  "name": "generator-m",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for Meteor",
+  "keywords": [
+    "yeoman-generator", 
+    "meteor"
+  ],
+  "licence": "MIT",
+  "main": "app/index.js",
+  "author": {
+    "name": "Jörg Lauenroth",
+    "url": "http://joerg.lauenroth.org"
+  },
+  "homepage": "http://joerg.lauenroth.org/yo-meteor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lauenroth/yo-meteor"
+  },
+
+  "dependencies": {
+    "yeoman-generator": "^0.17.7",
+    "meteor": "^0.9"
+  }
+  
+  
+}
